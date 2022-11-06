@@ -1,21 +1,19 @@
-# Tiny Tunes
+# Switch Master - The Game
 
-## Exercise
+## Route the trains to their destinations
 
-In this exercise, you will start working against (pun intended) the DOM API.
+Web component containing a game where the objective is to operate a number of railway switches in order to direct the trains to their destination.
 
-For this exercise, it is OK to place the code needed in index.js. Later on, you will look at separating your JavaScript more cleanly. If you like, please go ahead and put the code in a separate helper module.
-
-Start the exercise by:
+Install by:
 
 ```bash
 npm i
 ```
 
-followed by:
+Run with by:
 
 ```bash
 npm run dev
 ```
 
-The instructions will be served by index.html.
+Project is in very-early development.

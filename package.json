@@ -1,0 +1,28 @@
+{
+  "name": "exercise-tiny-tunes",
+  "version": "1.1.0",
+  "description": "1DV025 - Exercise Module B - Tiny Tunes",
+  "type": "module",
+  "browser": "./src/js/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "npx eslint ./src || exit 0",
+    "lint:fix": "npx eslint ./src --fix || exit 0"
+  },
+  "contributors": [
+    "Johan Leitet <johan.leitet@lnu.se>",
+    "Mats Loock <mats.loock@lnu.se>",
+    "// TODO: YOUR NAME <YOUR EMAIL>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tone": "^14.7.77"
+  },
+  "devDependencies": {
+    "@lnu/eslint-config": "^1.1.5",
+    "vite": "^3.0.7"
+  }
+}
